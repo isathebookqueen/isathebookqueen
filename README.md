@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @isathebookqueen
+- 👀 I’m interested in front-end, database and web
+- 🌱 I’m currently learning SQL, networks and hardware
+- 📫 How to reach me => isadoraicn1980@gmail.com
