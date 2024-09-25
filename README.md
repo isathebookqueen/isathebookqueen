@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @isathebookqueen
 - 👀 I’m interested in front-end, database and web
-- 🌱 I’m currently learning SQL, networks and hardware
+- 🌱 I’m currently learning HTML, CSS, networks and mobile
 - 📫 How to reach me => isadoraicn1980@gmail.com
